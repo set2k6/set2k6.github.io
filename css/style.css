@@ -82,6 +82,9 @@ footer.page-footer {
 }
 
 .techImgs {
-  height: 100px;
-  width: 50%;
+  height: 120px;
+  width: 120px;
+  margin: 20px 0 0;
+  padding: 5px;
+  text-align: center;    
 }
