@@ -6,22 +6,15 @@
  * Made By MaterializeCSS.com
  */
 
-<<<<<<< HEAD
  body {
     background-image: url("/images/jgdevhome.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: #1b1a1a;
  }
-/*nav ul a,
-=======
-body {
-  background-image: url('/images/jgdevhome.png');
-  background-size: cover;
-}
 
-nav ul a,
->>>>>>> 4e74295f1294f9d801a0dbd497a1bdc6e952fbb7
+/*nav ul a,
+
 nav .brand-logo {
   color: #444;
 }
@@ -102,8 +95,6 @@ footer.page-footer {
   margin: 20px 0 0;
   padding: 5px;
   text-align: center;    
-<<<<<<< HEAD
-}*/
-=======
 }
->>>>>>> 4e74295f1294f9d801a0dbd497a1bdc6e952fbb7
+
+*/
