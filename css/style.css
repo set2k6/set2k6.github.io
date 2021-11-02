@@ -6,6 +6,11 @@
  * Made By MaterializeCSS.com
  */
 
+body {
+  background-img: url('/images/jghomedev.png');
+  background-size: cover;
+}
+
 nav ul a,
 nav .brand-logo {
   color: #444;
